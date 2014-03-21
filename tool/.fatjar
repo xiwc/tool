@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Dec 09 14:15:39 GMT+08:00 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SQL\u62FC\u63A5_v2.0.jar
+manifest.mergeall=true
+manifest.mainclass=com.skycloud.xwc.tools.SqlJoinWin
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|MyTools>~com/~skycloud/~xwc/~tools/~BatchConfirmAndRepair$ICallBack.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~BatchConfirmAndRepair.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~BatchCRWin$1.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~BatchCRWin$2$1.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~BatchCRWin$2.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~BatchCRWin.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~JoinSql2OneLineMain.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~JoinSqlMain.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~JoinStringMain.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~LicenceResetHandler.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~LicenceResetWin$1.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~LicenceResetWin$2.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~LicenceResetWin.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~TopUtils.class;<po|MyTools>~com/~skycloud/~xwc/~tools/~TrimJoinMain.class;<po|MyTools>~log4j.properties;<po|MyTools>~sql001.sql;<po|MyTools>~sql002.sql;<jar|commons-beanutils.jar>;<jar|commons-collections-3.2.1.jar>;<jar|commons-lang-2.6.jar>;<jar|commons-logging-1.1.1.jar>;<jar|ezmorph-1.0.6.jar>;<jar|json-lib-2.4-jdk15.jar>;<jar|log4j-1.2.16.jar>;<jar|xom-1.2.8.jar>;<jar|forms-1.2.0.jar>
+includes=
